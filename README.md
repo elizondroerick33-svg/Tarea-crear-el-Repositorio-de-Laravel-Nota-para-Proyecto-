@@ -303,7 +303,6 @@ laravel-lab/
 
 **Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá:**
 
-- **Nombre:** [TU NOMBRE COMPLETO]
-- **Correo:** [TU CORREO INSTITUCIONAL]
-- **Curso:** [NOMBRE DEL CURSO]
+- **Nombre:** Erick Elizondro
+
 - **Instructor del Laboratorio:** Irina Fong
